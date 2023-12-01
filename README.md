@@ -5,7 +5,7 @@ They're written in Golang.
 
 `boilerplate.go` contains basis for reading the input files.
 
-Day 1 - [TBD](https://adventofcode.com/2023/day/1)<br>
+Day 1 - [Trebuchet ?!](https://adventofcode.com/2023/day/1)<br>
 Day 2 - [TBD](https://adventofcode.com/2023/day/2)<br>
 Day 3 - [TBD](https://adventofcode.com/2023/day/3)<br>
 Day 4 - [TBD](https://adventofcode.com/2023/day/4)<br>
