@@ -8,7 +8,7 @@ They're written in Golang.
 Day 1 - [Trebuchet ?!](https://adventofcode.com/2023/day/1)<br>
 Day 2 - [Cube Conundrum](https://adventofcode.com/2023/day/2)<br>
 Day 3 - [Gear Ratios](https://adventofcode.com/2023/day/3)<br>
-Day 4 - [TBD](https://adventofcode.com/2023/day/4)<br>
+Day 4 - [Scratchcards](https://adventofcode.com/2023/day/4)<br>
 Day 5 - [TBD](https://adventofcode.com/2023/day/5)<br>
 Day 6 - [TBD](https://adventofcode.com/2023/day/6)<br>
 Day 7 - [TBD](https://adventofcode.com/2023/day/7)<br>
