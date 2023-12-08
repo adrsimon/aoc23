@@ -12,7 +12,7 @@ Day 4 - [Scratchcards](https://adventofcode.com/2023/day/4)<br>
 Day 5 - [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)<br>
 Day 6 - [Wait For It](https://adventofcode.com/2023/day/6)<br>
 Day 7 - [Camel Cards](https://adventofcode.com/2023/day/7)<br>
-Day 8 - [TBD](https://adventofcode.com/2023/day/8)<br>
+Day 8 - [Haunted Wasteland](https://adventofcode.com/2023/day/8)<br>
 Day 9 - [TBD](https://adventofcode.com/2023/day/9)<br>
 Day 10 - [TBD](https://adventofcode.com/2023/day/10)<br>
 Day 11 - [TBD](https://adventofcode.com/2023/day/11)<br>
