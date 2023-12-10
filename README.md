@@ -14,7 +14,7 @@ Day 6 - [Wait For It](https://adventofcode.com/2023/day/6)<br>
 Day 7 - [Camel Cards](https://adventofcode.com/2023/day/7)<br>
 Day 8 - [Haunted Wasteland](https://adventofcode.com/2023/day/8)<br>
 Day 9 - [Mirage Maintenance](https://adventofcode.com/2023/day/9)<br>
-Day 10 - [TBD](https://adventofcode.com/2023/day/10)<br>
+Day 10 - [Pipe Maze](https://adventofcode.com/2023/day/10)<br>
 Day 11 - [TBD](https://adventofcode.com/2023/day/11)<br>
 Day 12 - [TBD](https://adventofcode.com/2023/day/12)<br>
 Day 13 - [TBD](https://adventofcode.com/2023/day/13)<br>
