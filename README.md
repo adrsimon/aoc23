@@ -18,7 +18,7 @@ Day 10 - [Pipe Maze](https://adventofcode.com/2023/day/10)<br>
 Day 11 - [Cosmic Expansion](https://adventofcode.com/2023/day/11)<br>
 Day 12 - [Hot Springs](https://adventofcode.com/2023/day/12)<br>
 Day 13 - [Point of Incidence](https://adventofcode.com/2023/day/13)<br>
-Day 14 - [TBD](https://adventofcode.com/2023/day/14)<br>
+Day 14 - [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14)<br>
 Day 15 - [TBD](https://adventofcode.com/2023/day/15)<br>
 Day 16 - [TBD](https://adventofcode.com/2023/day/16)<br>
 Day 17 - [TBD](https://adventofcode.com/2023/day/17)<br>
